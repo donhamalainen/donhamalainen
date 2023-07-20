@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there👋, my name is Don Hämäläinen
+## Soft developer & designer
 
 <!--
 **donhamalainen/donhamalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
