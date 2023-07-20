@@ -1,5 +1,6 @@
 # Hi there👋, my name is Don Hämäläinen
 ## Soft developer & designer
+![linkedIn](https://github.com/donhamalainen/donhamalainen/assets/118666926/6b5d5148-35aa-4f0f-bbdf-c0e759e026e9)
 
 <!--
 **donhamalainen/donhamalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
