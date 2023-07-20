@@ -1,7 +1,6 @@
 # Hi there👋, my name is Don Hämäläinen
 ## Soft developer & designer
-![linkedIn](https://github.com/donhamalainen/donhamalainen/assets/118666926/6b5d5148-35aa-4f0f-bbdf-c0e759e026e9)[link](https://www.linkedin.com/in/donhamalainen/)
-
+![link[linkedIn](https://github.com/donhamalainen/donhamalainen/assets/118666926/6b5d5148-35aa-4f0f-bbdf-c0e759e026e9)]
 
 📫 Oulu, Finland
 <!--
