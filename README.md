@@ -1,7 +1,8 @@
 # Hi there👋, my name is Don Hämäläinen
 ## Soft developer & designer
 
-📫 Oulu, Finland
+- 📫 Oulu, Finland.
+- 📫 hamalainen.don@gmail.com
 <!--
 **donhamalainen/donhamalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
