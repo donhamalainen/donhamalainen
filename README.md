@@ -9,14 +9,14 @@ I am a second-year student of a bachelor's degree in computer science. My streng
 I have a strong experience with the following technologies:
 
 ```
-Java
+🌱 Java
 Python
 C
 JavaScript / TypeScript
 SQL (Database)
 Web Development (React, NextJS)
 Mobile Development (React-Native)
-Data Structures (Algorithms)
+🤔 Data Structures (Algorithms)
 ```
 
 - 📫 Oulu, Finland.
