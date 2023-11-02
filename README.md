@@ -1,5 +1,6 @@
-# Hi there👋, my name is Don Hämäläinen
-## Soft developer & designer
+# Hi there👋, 
+## my name is Don Hämäläinen
+### 65°Søft developer | 25°Designer
 
 - 📫 Oulu, Finland.
 - 📫 hamalainen.don@gmail.com
