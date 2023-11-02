@@ -15,7 +15,6 @@ C
 JavaScript / TypeScript
 SQL 
 Web development (React, NextJS)
-Google Analytics & Tag Manager
 Data Structures (Algorithms)
 ```
 
