@@ -19,7 +19,7 @@ Mobile Development (React-Native)
 Data Structures (Algorithms)
 ```
 
-📫 Oulu, Finland.
+📫 Oulu, Finland.\n
 📫 hamalainen.don@gmail.com
 <!--
 **donhamalainen/donhamalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
