@@ -18,6 +18,4 @@ Web Development (React, NextJS)
 Mobile Development (React-Native)
 🤔 Data Structures (Algorithms)
 ```
-
-### 📫 Oulu, Finland. 
-### 📫 hamalainen.don@gmail.com
+#### 📫 hamalainen.don@gmail.com
