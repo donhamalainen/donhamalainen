@@ -13,7 +13,7 @@ Java
 Python
 C
 JavaScript / TypeScript
-SQL 
+SQL (Database)
 Web Development (React, NextJS)
 Mobile Development (React-Native)
 Data Structures (Algorithms)
