@@ -8,7 +8,7 @@ I am a second-year student of a bachelor's degree in computer science. My streng
 
 I have a strong experience with the following technologies:
 
-`
+```
 Java
 Python
 C
@@ -17,7 +17,8 @@ SQL
 Web development (React, NextJS)
 Google Analytics & Tag Manager
 Data Structures (Algorithms)
-`
+```
+
 📫 Oulu, Finland.
 📫 hamalainen.don@gmail.com
 <!--
