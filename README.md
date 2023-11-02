@@ -19,8 +19,8 @@ Mobile Development (React-Native)
 Data Structures (Algorithms)
 ```
 
-📫 Oulu, Finland.
-📫 hamalainen.don@gmail.com
+- 📫 Oulu, Finland.
+- 📫 hamalainen.don@gmail.com
 
 
 <!--
