@@ -1,5 +1,6 @@
 # Hi there👋,my name is Don Hämäläinen
-## 📫 hamalainen.don@gmail.com
+### 📫 hamalainen.don@gmail.com
+### 📫 (+358)505541882
 ***65°Søft developer | 25°Designer***
 
 🥳 Great to see you are interested in looking over more about me. 
