@@ -20,4 +20,3 @@ Mobile Development (React-Native)
 🤔 Data Structures (Algorithms)
 ```
 
-![JavaScript Certification](js_certification.pdf)
