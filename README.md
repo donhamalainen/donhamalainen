@@ -1,4 +1,5 @@
 # Hi there👋,my name is Don Hämäläinen
+# 📫 hamalainen.don@gmail.com
 ***65°Søft developer | 25°Designer***
 
 🥳 Great to see you are interested in looking over more about me. 
@@ -18,4 +19,5 @@ Web Development (React, NextJS)
 Mobile Development (React-Native)
 🤔 Data Structures (Algorithms)
 ```
-#### 📫 hamalainen.don@gmail.com
+
+![JavaScript Certification](https://github.com/donhamalainen/donhamalainen/blob/main/js_certification.pdf)
