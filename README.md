@@ -19,5 +19,5 @@ Web Development (React, NextJS)
 Mobile Development (React-Native)
 🤔 Data Structures (Algorithms)
 ```
-![plot](js_certification.pdf)
+
 
