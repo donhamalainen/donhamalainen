@@ -20,4 +20,4 @@ Mobile Development (React-Native)
 🤔 Data Structures (Algorithms)
 ```
 
-![JavaScript Certification](https://github.com/donhamalainen/donhamalainen/blob/main/js_certification.pdf)
+![JavaScript Certification](js_certification.pdf)
