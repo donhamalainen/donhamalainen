@@ -11,9 +11,10 @@ I have a strong experience with the following technologies:
 
 ```
 🌱 Java
-Python
-C
-JavaScript / TypeScript
+👾 Python
+🤖 C
+☠️ Assembly
+🫶 JavaScript / TypeScript
 SQL (Database)
 Web Development (React, NextJS)
 Mobile Development (React-Native)
