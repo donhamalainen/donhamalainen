@@ -7,10 +7,10 @@
 I have experience with the following technologies:
 
 ```
-😍 Web Development (React, NextJS)
+😍 Web / Mobile Development (React/React Native, NextJS, Expo)
 🌱 Java
 🤔 Data Structures (Algorithms)
-📊 SQL (Database)
+📊 SQL, Supabase, Firebase (Database)
 🤖 C
 ```
 
