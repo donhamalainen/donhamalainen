@@ -8,10 +8,10 @@ I have experience with the following technologies:
 
 ```
 😍 Web / Mobile Development (React/React Native, NextJS, Expo)
-🌱 Java
+🌱 Java, Python
 🤔 Data Structures (Algorithms)
-📊 SQL, Supabase, Firebase (Database)
-🤖 C
+📊 SQL, Supabase, Firebase, PostgreSQL
+🤖 C / C++
 ```
 
 
